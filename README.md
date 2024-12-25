@@ -3,8 +3,7 @@
 - 🌱 I’m currently Pursuing my UG in Artificial Intelligence and Data Science.
 - 💞️ I’m looking to collaborate on projects related to AI,ML and DL
 - 📫 How to reach me @kousikaarul27@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...I love to code
+- ⚡ Fun fact:I love to code
 
 <!---
 kousika27/kousika27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
