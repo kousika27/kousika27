@@ -1,9 +1,8 @@
 <h1 align="center"> Hi there 👋 It's me Kousika</h1>
 <h3 align="center">Aspiring AI & DS professional | Webdeveloper |ML Engineer</h3>
+
 ---
-
 🌟 **About Me**
-
 - 🎓 Prefinal year at **Panimalar Engineering College**, specializing in **Artificial Intelligence and Data Science**
 - 🚀 Passionate about AI, Data Science, Machine Learning, and Web Development
 - 💡 I enjoy building real-world projects that solve meaningful problems
@@ -26,7 +25,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=kousika27&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=kousika27&theme=radical" alt="GitHub Streak" />
 </p>
+
 ---
--📫 **Let's Connect**
+📫 **Let's Connect**
 - [LinkedIn](https://www.linkedin.com/in/kousikaarul27)
 - 📬 Email:kousikaarul27@gmail.com
